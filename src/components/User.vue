@@ -3,7 +3,7 @@
     <c-header title="我的"></c-header>
     <div class="scroll-background">
       <grid class="bg-white">
-        <grid-item class="txt-center" v-for="item in list">
+        <grid-item class="txt-center" v-for="item in list" :key="item.text">
           <x-img :src="getRealPath(item.icon)"></x-img>
           <p class="p-style">{{item.text}}</p>
         </grid-item>
