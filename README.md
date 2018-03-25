@@ -31,7 +31,7 @@ npm test
 #### vue.js+vue-cli+vue-router+vuex+vux
 
 ## 运行效果：
-
+![image](https://github.com/leslieSie/vue-for-my-english-app/blob/master/static/show.gif)
 ## 后续
 #### 这个webapp后期会不断的拓展和升级，将会带来更好的用户体验。
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
